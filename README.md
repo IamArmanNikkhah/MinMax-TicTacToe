@@ -9,4 +9,4 @@ Minimax is a decision rule used in artificial intelligence, decision theory, gam
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Minimax.svg/400px-Minimax.svg.png)
 
-In this project I used alpha beta pruning to enhance speed of tree search and also heuristic and seting maximum depth search increase the performance dramatically.
+In this project I used alpha beta pruning to enhance speed of tree search and also using heuristic and seting maximum depth search increase the performance dramatically.
